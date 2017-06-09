@@ -8,44 +8,44 @@
     },
     "installed_plugins": {
         "cordova-plugin-whitelist": {
-            "PACKAGE_NAME": "com.designbest.pozzoli"
+            "PACKAGE_NAME": "com.designbest.detoniarredamentodesign"
         },
         "phonegap-plugin-push": {
             "SENDER_ID": "xxxxx",
-            "PACKAGE_NAME": "com.designbest.pozzoli"
+            "PACKAGE_NAME": "com.designbest.detoniarredamentodesign"
         },
         "cordova-plugin-device": {
-            "PACKAGE_NAME": "com.designbest.pozzoli"
+            "PACKAGE_NAME": "com.designbest.detoniarredamentodesign"
         },
         "cordova-custom-config": {
-            "PACKAGE_NAME": "com.designbest.pozzoli"
+            "PACKAGE_NAME": "com.designbest.detoniarredamentodesign"
         },
         "cordova-plugin-dialogs": {
-            "PACKAGE_NAME": "com.designbest.pozzoli"
+            "PACKAGE_NAME": "com.designbest.detoniarredamentodesign"
         },
         "cordova-plugin-inappbrowser": {
-            "PACKAGE_NAME": "com.designbest.pozzoli"
+            "PACKAGE_NAME": "com.designbest.detoniarredamentodesign"
         },
         "cordova-plugin-network-information": {
-            "PACKAGE_NAME": "com.designbest.pozzoli"
+            "PACKAGE_NAME": "com.designbest.detoniarredamentodesign"
         },
         "cordova-plugin-statusbar": {
-            "PACKAGE_NAME": "com.designbest.pozzoli"
+            "PACKAGE_NAME": "com.designbest.detoniarredamentodesign"
         },
         "cordova-plugin-contacts": {
             "CONTACTS_USAGE_DESCRIPTION": " ",
-            "PACKAGE_NAME": "com.designbest.pozzoli"
+            "PACKAGE_NAME": "com.designbest.detoniarredamentodesign"
         },
         "cordova-plugin-x-socialsharing": {
-            "PACKAGE_NAME": "com.designbest.pozzoli"
+            "PACKAGE_NAME": "com.designbest.detoniarredamentodesign"
         }
     },
     "dependent_plugins": {
         "cordova-plugin-compat": {
-            "PACKAGE_NAME": "com.designbest.pozzoli"
+            "PACKAGE_NAME": "com.designbest.detoniarredamentodesign"
         },
         "es6-promise-plugin": {
-            "PACKAGE_NAME": "com.designbest.pozzoli"
+            "PACKAGE_NAME": "com.designbest.detoniarredamentodesign"
         }
     }
 }
