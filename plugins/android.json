@@ -7,38 +7,38 @@
         "files": {}
     },
     "installed_plugins": {
-        "cordova-custom-config": {
-            "PACKAGE_NAME": "com.designbest.detoniarredamentodesign"
-        },
-        "cordova-plugin-device": {
-            "PACKAGE_NAME": "com.designbest.detoniarredamentodesign"
-        },
-        "cordova-plugin-dialogs": {
-            "PACKAGE_NAME": "com.designbest.detoniarredamentodesign"
-        },
-        "cordova-plugin-inappbrowser": {
-            "PACKAGE_NAME": "com.designbest.detoniarredamentodesign"
-        },
-        "cordova-plugin-network-information": {
-            "PACKAGE_NAME": "com.designbest.detoniarredamentodesign"
-        },
-        "cordova-plugin-statusbar": {
-            "PACKAGE_NAME": "com.designbest.detoniarredamentodesign"
-        },
         "cordova-plugin-whitelist": {
-            "PACKAGE_NAME": "com.designbest.detoniarredamentodesign"
-        },
-        "cordova-plugin-x-socialsharing": {
-            "PACKAGE_NAME": "com.designbest.detoniarredamentodesign"
+            "PACKAGE_NAME": "com.detoniarredamentodesign.DeToniArredamentoDesign"
         },
         "phonegap-plugin-push": {
             "SENDER_ID": "xxxxx",
-            "PACKAGE_NAME": "com.designbest.detoniarredamentodesign"
+            "PACKAGE_NAME": "com.detoniarredamentodesign.DeToniArredamentoDesign"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "com.detoniarredamentodesign.DeToniArredamentoDesign"
+        },
+        "cordova-custom-config": {
+            "PACKAGE_NAME": "com.detoniarredamentodesign.DeToniArredamentoDesign"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "com.detoniarredamentodesign.DeToniArredamentoDesign"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "com.detoniarredamentodesign.DeToniArredamentoDesign"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "com.detoniarredamentodesign.DeToniArredamentoDesign"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "com.detoniarredamentodesign.DeToniArredamentoDesign"
+        },
+        "cordova-plugin-x-socialsharing": {
+            "PACKAGE_NAME": "com.detoniarredamentodesign.DeToniArredamentoDesign"
         }
     },
     "dependent_plugins": {
         "es6-promise-plugin": {
-            "PACKAGE_NAME": "com.designbest.detoniarredamentodesign"
+            "PACKAGE_NAME": "com.detoniarredamentodesign.DeToniArredamentoDesign"
         }
     }
 }
